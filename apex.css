@@ -36,15 +36,26 @@ body {
 .writing {
   display: flex;
   justify-content: space-between;
-  width: 25%;
+  width: 35%;
   position: absolute;
   top: 4%;
   left: 15%;
   padding: 5px;
+font-size: 20px;}
+.nali {
+  color: aliceblue;
+  text-decoration: none;
+}
+.icon {
+  position: absolute;
+  top: 4%;
+  right: 10%;
+  display: flex;
+  color: aliceblue;
  
 }
-.nali{
-    color: aliceblue;
-    text-decoration: none;
-  
+.ic{
+  padding-left: 15px;
+  font-size: 20px;
+  padding-top: 5px;
 }
